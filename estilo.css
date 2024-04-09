@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: aquamarine;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #B3D7FF;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+h1, h2 {
+    color: black;
+}
+p {
+    margin-bottom: 10px;
+}
+img {
+    max-width: 200px;
+    border-radius: 20%;
+    margin-bottom: 20px;
+}
+form {
+    margin-top: 20px;
+}
+input, button {
+    padding: 5px 10px;
+    margin-right: 10px;
+}
